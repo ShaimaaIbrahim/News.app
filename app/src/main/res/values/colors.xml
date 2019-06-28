@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F11616</color>
+    <color name="colorPrimaryDark">#050500</color>
+    <color name="colorAccent">#090400</color>
+    <color name="colortab">#DBDDE4</color>
+    <color name="register_background">#29A0DA</color>
+    <color name="weathr_back">#D7CEE9</color>
+    <color name="weathr_speed">#D6B1E4</color>
+</resources>
